@@ -1,3 +1,15 @@
 .container-fluid{
 background-color: rgb(122, 207, 207);
 }
+thead{
+    background-color: black;
+    color: azure;
+}
+tbody{
+    background-color: whitesmoke;
+   
+}
+form{
+    padding-top: 2vh;
+}
+
